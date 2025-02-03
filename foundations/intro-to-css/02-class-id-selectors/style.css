@@ -1,0 +1,19 @@
+.odd-nbr {
+    background-color: rgb(255, 187, 187);
+    font-family: Verdana, Deja VuSans, sans-serif;
+}
+
+.odd-nbr.bigger-txt {
+    font-size: 24px;
+}
+
+.blue {
+    color: blue;
+    font-size: 36px;
+}
+
+.green {
+    background-color: rgb(177, 255, 201);
+    font-size: 24px;
+    font-weight: 800;
+}
